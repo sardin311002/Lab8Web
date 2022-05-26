@@ -181,6 +181,7 @@ th, td{
 Buat file baru dengan nama **tambah.php**
 ![img](img/tambahPHP.png)
 **PENJELASAN**<br>
+Program menambahkan data atau **Create**
 ![img](img/tambahPHP1.png)
 ```code php
 <?php
@@ -267,9 +268,6 @@ enctype="multipart/form-data">
 ```
 ### 8). MENGUBAH DATA (UPDATE)
 Buat file baru dengan nama **ubah.php**
-![img](img/ubahPHP1.png)
-**PENJELASAN**
-Mengubah isi dari data barang menjadi data barang baru seperti contoh gambar di atas.
 ![img](img/ubahPHP1.png)
 maka hasilnya yang akan keluar seperti dibawah
 ![img](img/ubahPHP2.png)
