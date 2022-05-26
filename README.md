@@ -385,8 +385,8 @@ function is_select($var, $val) {
 </html>
 ```
 ### 9). MENGHAPUS DATA (DELETE)
-Buat file baru dengan nama **hapus.php**
-**PENJELASAN**
+Buat file baru dengan nama **hapus.php**<br>
+**PENJELASAN**<br>
 Jika ingin menghapus atau delete klik saja hapus maka akan terhapus secara otomatis oleh program,dan jika ingin kembali menambahkan klik Tambah Barang kemudian masukan inputan nya.
 ```code php
 <?php
